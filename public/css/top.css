@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+}
+
+/* contents start */
+.contents{
+  display: flex;
+  padding-top: 80px;
+  height: 91.5%;
+}
+/* contents end */
+
+
+/* 初期画面の画像　start */
+.first_contents{
+  width: 100%;
+  margin:auto;
+  display: block;
+  text-align: center;
+}
+
+.first_image{
+  width: 200px;
+  height: 130px;
+}
+/* 初期画面の画像　end */
+
